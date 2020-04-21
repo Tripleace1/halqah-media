@@ -1,0 +1,71 @@
+<!-- Contact section -->
+<section class="contact-section">
+		<div class="container-fluid">
+			<div class="row">
+				<div class="col-lg-6 p-0">
+					<!-- Map -->
+					<div class="map"><iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d10784.188505644011!2d19.053119335158936!3d47.48899529453826!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sbd!4v1543907528304" style="border:0" allowfullscreen></iframe></div>
+				</div>
+				<div class="col-lg-6 p-0">
+					<div class="contact-warp">
+						<div class="section-title mb-0">
+							<h2>Get in touch</h2>
+						</div>
+						<p></p>
+						<ul>
+							<li>Main Road , No 25/11</li>
+							<li>+234707437373</li>
+							<li>contact@halqohmedia.com</li>
+						</ul>
+						<form class="contact-from">
+							<div class="row">
+								<div class="col-md-6">
+									<input type="text" placeholder="Your name">
+								</div>
+								<div class="col-md-6">
+									<input type="text" placeholder="Your e-mail">
+								</div>
+								<div class="col-md-12">
+									<input type="text" placeholder="Subject">
+									<textarea placeholder="Message"></textarea>
+									<button class="site-btn">send message</button>
+								</div>
+							</div>
+						</form>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<!-- Contact section end -->
+
+    <!-- Footer section -->
+	<footer class="footer-section">
+            <br><br>
+            <img src="images/Halqoh logo.jpg" alt="logo" width="80"><a class="logo-footer" href="index.html">Halqah Media</a>
+            <div class="copyright">
+                Copyright &copy;
+                <script>document.write(new Date().getFullYear());</script>
+                 All rights reserved | Design by <a href="https://ikumtech.com" target="_blank">Ikumtech</a>
+            </div>
+            <div class="social-links">
+                <a href=""><i class="fa fa-instagram"></i></a>
+                <a href=""><i class="fa fa-facebook"></i></a>
+                <a href=""><i class="fa fa-twitter"></i></a>
+                <a href=""><i class="fa fa-youtube"></i></a>
+            </div>
+        </footer>
+        <!-- Footer section end -->
+    
+     <!--JAVASCRIPT AND JQUERY-->
+        <!-- jQuery library -->
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    
+        <!-- Latest compiled JavaScript -->
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+        
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+        <script src="js/bootstrap.min.js"></script>
+        <script src="js/main.js"></script>
+</body>
+</html>
